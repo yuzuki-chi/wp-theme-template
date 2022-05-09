@@ -1,0 +1,33 @@
+/*
+Theme Name: Template Theme
+Theme URI:
+Author:
+Author URI:
+Description:
+Requires at least:
+Tested up to:
+Requires PHP:
+Version:
+License:
+License URI:
+Text Domain:
+Tags:
+*/
+
+/*------------------------------
+ ▼共通デザイン（モバイル向け）
+ -------------------------------*/
+@charset "UTF-8";
+
+/*-------------------------------------
+ ▼中型画面向けデザイン（タブレットなど）
+ --------------------------------------*/
+@media screen and (min-width: 768px) {
+
+}
+/*-------------------------------
+▼大型画面向けデザイン（PCなど）
+--------------------------------*/
+@media screen and (min-width: 1024px) {
+
+}
